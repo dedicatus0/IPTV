@@ -1,6 +1,6 @@
 CCTV-1高清,http://42.176.154.142:9901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2高清,http://42.176.154.142:9901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3高清,http://42.176.154.142:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3高清,http://42.179.43.41:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4高清,http://42.176.154.142:9901/tsfile/live/1158_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5高清,http://42.176.154.142:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6高清,http://42.176.154.142:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
