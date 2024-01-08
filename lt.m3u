@@ -35,7 +35,11 @@ http://42.176.154.142:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=
 http://42.176.154.142:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+高清
 http://42.176.154.142:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视高清
+#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
+http://42.176.154.142:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视",风云音乐
+http://42.176.154.142:9901/tsfile/live/1123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="辽宁",辽宁卫视高清
 http://42.176.154.142:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://epg.112114.xyz/logo/辽宁北方.png" group-title="辽宁",辽宁北方
 http://42.176.154.142:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -51,8 +55,6 @@ http://42.176.154.142:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=
 http://42.176.154.142:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://epg.112114.xyz/logo/辽宁影视剧.png" group-title="辽宁",辽宁影视剧
 http://42.176.154.142:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="西安移动电视" tvg-name="西安移动电视" tvg-logo="https://epg.112114.xyz/logo/西安移动电视.png" group-title="其他",移动电视
-http://42.176.154.142:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="沈阳新闻" tvg-name="沈阳新闻" tvg-logo="https://epg.112114.xyz/logo/沈阳新闻.png" group-title="其他",沈阳新闻
 http://42.176.154.142:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="北京4K" tvg-name="北京4K" tvg-logo="https://epg.112114.xyz/logo/北京4K.png" group-title="北京",北京高清
@@ -143,6 +145,8 @@ http://42.176.154.142:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=
 http://42.176.154.142:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="佳嘉卡通" tvg-name="佳嘉卡通" tvg-logo="https://epg.112114.xyz/logo/佳嘉卡通.png" group-title="其他",佳嘉卡通
 http://42.176.154.142:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="西安移动电视" tvg-name="西安移动电视" tvg-logo="https://epg.112114.xyz/logo/西安移动电视.png" group-title="其他",移动电视
+http://42.176.154.142:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园频道
 http://42.176.154.142:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",动作电影
@@ -151,9 +155,39 @@ http://42.176.154.142:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=
 http://42.176.154.142:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",家庭影院
 http://42.176.154.142:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
-http://42.176.154.142:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视",风云音乐
-http://42.176.154.142:9901/tsfile/live/1123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
 http://42.176.154.142:9901/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="NewTV",NewTV超级体育
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u
+#EXTINF:-1 group-title="NewTV",NewTV东北热剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV古装剧场
+http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV海外剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV欢乐剧场
+http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
+#EXTINF:-1 group-title="NewTV",NewTV欢乐剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV家庭剧场
+http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV金牌综艺
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV惊悚悬疑
+http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品大剧
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品纪录
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品体育
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军旅剧场
+http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军事评论
+http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV明星大片
+http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
