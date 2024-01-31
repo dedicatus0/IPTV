@@ -21,6 +21,8 @@ http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227041/index.m3
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226745/index.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6 8M1080
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227099/index.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8 8M1080
 http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227102/index.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9 7.5M1080
@@ -43,6 +45,16 @@ http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226766/index.m3
 http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226735/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="辽宁",辽宁卫视 7.5M1080
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226731/index.m3u8
+#EXTINF:-1,tvg-id="大连新闻" tvg-name="大连新闻" tvg-logo="https://epg.112114.xyz/logo/大连新闻.png" group-title="辽宁",大连新闻
+http://live.cooltv.top/tv/tide.php?id=dlzh
+#EXTINF:-1,tvg-id="大连生活" tvg-name="大连生活" tvg-logo="https://epg.112114.xyz/logo/大连生活.png" group-title="辽宁",大连生活
+http://live.cooltv.top/tv/tide.php?id=dlsh
+#EXTINF:-1,tvg-id="大连文体" tvg-name="大连文体" tvg-logo="https://epg.112114.xyz/logo/大连文体.png" group-title="辽宁",大连文体
+http://live.cooltv.top/tv/tide.php?id=dlwt
+#EXTINF:-1,tvg-id="大连影视" tvg-name="大连影视" tvg-logo="https://epg.112114.xyz/logo/大连影视.png" group-title="辽宁",大连影视
+http://live.cooltv.top/tv/tide.php?id=dlzhys
+#EXTINF:-1,tvg-id="大连少儿" tvg-name="大连少儿" tvg-logo="https://epg.112114.xyz/logo/大连少儿.png" group-title="辽宁",大连少儿
+http://live.cooltv.top/tv/tide.php?id=dlse
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视 7.5M1080
 http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226733/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视 8M1080
