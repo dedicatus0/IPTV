@@ -55,6 +55,68 @@ http://live.cooltv.top/tv/tide.php?id=dlwt
 http://live.cooltv.top/tv/tide.php?id=dlzhys
 #EXTINF:-1,tvg-id="大连少儿" tvg-name="大连少儿" tvg-logo="https://epg.112114.xyz/logo/大连少儿.png" group-title="辽宁",大连少儿
 http://live.cooltv.top/tv/tide.php?id=dlse
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://angtv.cc/test/lngd.php?id=058
+#EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png" group-title="辽宁",辽宁都市
+http://angtv.cc/test/lngd.php?id=610
+#EXTINF:-1,tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://epg.112114.xyz/logo/辽宁北方.png" group-title="辽宁",辽宁北方
+http://angtv.cc/test/lngd.php?id=071
+#EXTINF:-1,tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://epg.112114.xyz/logo/辽宁生活.png" group-title="辽宁",辽宁生活
+http://angtv.cc/test/lngd.php?id=073
+#EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="辽宁",辽宁体育
+http://angtv.cc/test/lngd.php?id=611
+#EXTINF:-1,tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://epg.112114.xyz/logo/辽宁影视剧.png" group-title="辽宁",辽宁影视
+http://angtv.cc/test/lngd.php?id=070
+#EXTINF:-1,tvg-id="辽宁教育" tvg-name="辽宁教育" tvg-logo="https://epg.112114.xyz/logo/辽宁教育.png" group-title="辽宁",辽宁教育
+http://angtv.cc/test/lngd.php?id=075
+#EXTINF:-1,tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://epg.112114.xyz/logo/辽宁经济.png" group-title="辽宁",辽宁经济
+http://angtv.cc/test/lngd.php?id=076
+#EXTINF:-1,tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://epg.112114.xyz/logo/辽宁公共.png" group-title="辽宁",辽宁公共
+http://angtv.cc/test/lngd.php?id=077
+#EXTINF:-1,tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://epg.112114.xyz/logo/辽宁公共.png" group-title="辽宁",辽宁公共
+http://angtv.cc/test/lngd.php?id=481
+#EXTINF:-1,tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://epg.112114.xyz/logo/辽宁经济.png" group-title="辽宁",辽宁经济
+http://angtv.cc/test/lngd.php?id=480
+#EXTINF:-1,tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://epg.112114.xyz/logo/辽宁北方.png" group-title="辽宁",辽宁北方导视
+http://angtv.cc/test/lngd.php?id=187
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="辽宁",辽宁新动漫
+http://angtv.cc/test/lngd.php?id=140
+#EXTINF:-1,tvg-id="沈阳新闻" tvg-name="沈阳新闻" tvg-logo="https://epg.112114.xyz/logo/沈阳新闻.png" group-title="辽宁",辽宁沈阳新闻综合
+http://angtv.cc/test/lngd.php?id=059
+#EXTINF:-1,tvg-id="辽宁抚顺综合" tvg-name="辽宁抚顺综合" tvg-logo="https://epg.112114.xyz/logo/辽宁抚顺综合.png" group-title="辽宁",辽宁抚顺综合
+http://angtv.cc/test/lngd.php?id=275
+#EXTINF:-1,tvg-id="辽宁鞍山新闻综合" tvg-name="辽宁鞍山新闻综合" tvg-logo="https://epg.112114.xyz/logo/辽宁鞍山新闻综合.png" group-title="辽宁",辽宁鞍山新闻综合
+http://angtv.cc/test/lngd.php?id=274
+#EXTINF:-1,tvg-id="辽宁大连新闻综合" tvg-name="辽宁大连新闻综合" tvg-logo="https://epg.112114.xyz/logo/辽宁大连新闻综合.png" group-title="辽宁",辽宁大连新闻综合
+http://angtv.cc/test/lngd.php?id=273
+#EXTINF:-1,tvg-id="辽宁丹东新闻综合" tvg-name="辽宁丹东新闻综合" tvg-logo="https://epg.112114.xyz/logo/辽宁丹东新闻综合.png" group-title="辽宁",辽宁丹东新闻综合
+http://angtv.cc/test/lngd.php?id=276
+#EXTINF:-1,tvg-id="辽宁锦州新闻综合" tvg-name="辽宁锦州新闻综合" tvg-logo="https://epg.112114.xyz/logo/辽宁锦州新闻综合.png" group-title="辽宁",辽宁锦州新闻综合
+http://angtv.cc/test/lngd.php?id=277
+#EXTINF:-1,tvg-id="辽宁阜新综合" tvg-name="辽宁阜新综合" tvg-logo="https://epg.112114.xyz/logo/辽宁阜新综合.png" group-title="辽宁",辽宁阜新综合
+http://angtv.cc/test/lngd.php?id=279
+#EXTINF:-1,tvg-id="辽宁辽阳新闻综合" tvg-name="辽宁辽阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/辽宁辽阳新闻综合.png" group-title="辽宁",辽宁辽阳新闻综合
+http://angtv.cc/test/lngd.php?id=280
+#EXTINF:-1,tvg-id="辽宁营口新闻综合" tvg-name="辽宁营口新闻综合" tvg-logo="https://epg.112114.xyz/logo/辽宁营口新闻综合.png" group-title="辽宁",辽宁营口新闻综合
+http://angtv.cc/test/lngd.php?id=278
+#EXTINF:-1,tvg-id="辽宁盘锦新闻综合" tvg-name="辽宁盘锦新闻综合" tvg-logo="https://epg.112114.xyz/logo/辽宁盘锦新闻综合.png" group-title="辽宁",辽宁盘锦新闻综合
+http://angtv.cc/test/lngd.php?id=283
+#EXTINF:-1,tvg-id="辽宁铁岭新闻综合" tvg-name="辽宁铁岭新闻综合" tvg-logo="https://epg.112114.xyz/logo/辽宁铁岭新闻综合.png" group-title="辽宁",辽宁铁岭新闻综合
+http://angtv.cc/test/lngd.php?id=281
+#EXTINF:-1,tvg-id="辽宁朝阳新闻综合" tvg-name="辽宁朝阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/辽宁朝阳新闻综合.png" group-title="辽宁",辽宁朝阳新闻综合
+http://angtv.cc/test/lngd.php?id=282
+#EXTINF:-1,tvg-id="辽宁本溪综合" tvg-name="辽宁本溪综合" tvg-logo="https://epg.112114.xyz/logo/辽宁本溪综合.png" group-title="辽宁",辽宁本溪综合
+http://angtv.cc/test/lngd.php?id=312
+#EXTINF:-1,tvg-id="辽宁连山区综合" tvg-name="辽宁连山区综合" tvg-logo="https://epg.112114.xyz/logo/辽宁连山区综合.png" group-title="辽宁",辽宁连山区综合
+http://angtv.cc/test/lngd.php?id=491
+#EXTINF:-1,tvg-id="辽宁龙港区综合" tvg-name="辽宁龙港区综合" tvg-logo="https://epg.112114.xyz/logo/辽宁龙港区综合.png" group-title="辽宁",辽宁龙港区综合
+http://angtv.cc/test/lngd.php?id=490
+#EXTINF:-1,tvg-id="辽宁葫芦岛新闻综合" tvg-name="辽宁葫芦岛新闻综合" tvg-logo="https://epg.112114.xyz/logo/辽宁葫芦岛新闻综合.png" group-title="辽宁",辽宁葫芦岛新闻综合
+http://angtv.cc/test/lngd.php?id=284
+#EXTINF:-1,tvg-id="辽宁丹东新闻综合" tvg-name="辽宁丹东新闻综合" tvg-logo="https://epg.112114.xyz/logo/辽宁丹东新闻综合.png" group-title="辽宁",辽宁丹东新闻综合
+http://mmitv.top/test/tianma.php?id=ddzh
+#EXTINF:-1,tvg-id="辽宁大连新闻" tvg-name="辽宁大连新闻" tvg-logo="https://epg.112114.xyz/logo/辽宁大连新闻.png" group-title="辽宁",辽宁大连新闻
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视 7.5M1080
 http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226733/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视 8M1080
