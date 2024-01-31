@@ -89,9 +89,9 @@ http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226731/i
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226689/index.m3u8
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视 7.5M1080
 http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226737/index.m3u8
-#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="北京",北京冬奥纪实 7.5M1080
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="卫视",北京冬奥纪实 7.5M1080
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226730/index.m3u8
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="湖南",湖南金鹰纪实 7.5M1080
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="卫视",湖南金鹰纪实 7.5M1080
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226714/index.m3u8
 #EXTINF:-1,tvg-id="哒啵赛事 4M1080" tvg-name="哒啵赛事 4M1080" tvg-logo="https://epg.112114.xyz/logo/哒啵赛事.png" group-title="其他",哒啵赛事 4M1080
 http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226903/index.m3u8
