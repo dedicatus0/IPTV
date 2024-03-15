@@ -141,20 +141,6 @@ http://tv.771993.xyz:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 http://tv.771993.xyz:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",家庭影院
 http://tv.771993.xyz:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="长影频道" tvg-name="长影频道" tvg-logo="https://epg.112114.xyz/logo/长影.png" group-title="其他",长影频道
-http://mqlive.leosam.top:80/mqlive?url=175.16.188.78:8014&cid=live1258
-#EXTINF:-1,tvg-id="变形金刚" tvg-name="变形金刚" tvg-logo="https://epg.112114.xyz/logo/变形金刚.png" group-title="其他",变形金刚
-http://mqlive.leosam.top:80/mqlive?url=175.16.188.78:8014&cid=live1352
-#EXTINF:-1,tvg-id="周润发" tvg-name="周润发" tvg-logo="https://epg.112114.xyz/logo/周润发.png" group-title="其他",周润发
-http://mqlive.leosam.top:80/mqlive?url=175.16.188.78:8014&cid=live1540
-#EXTINF:-1,tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://epg.112114.xyz/logo/周星驰.png" group-title="其他",周星驰
-http://mqlive.leosam.top:80/mqlive?url=175.16.188.78:8014&cid=live1587
-#EXTINF:-1,tvg-id="成龙作品集" tvg-name="成龙作品集" tvg-logo="https://epg.112114.xyz/logo/成龙作品集.png" group-title="其他",成龙
-http://mqlive.leosam.top:80/mqlive?url=175.16.188.78:8014&cid=live1399
-#EXTINF:-1,tvg-id="刘德华" tvg-name="刘德华" tvg-logo="https://epg.112114.xyz/logo/刘德华.png" group-title="其他",刘德华
-http://mqlive.leosam.top:80/mqlive?url=175.16.188.78:8014&cid=live1493
-#EXTINF:-1,tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://epg.112114.xyz/logo/李连杰.png" group-title="其他",李连杰
-http://mqlive.leosam.top:80/mqlive?url=175.16.188.78:8014&cid=live1446
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
 http://tv.771993.xyz:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="NewTV",NewTV超级体育
