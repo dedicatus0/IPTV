@@ -37,6 +37,8 @@ http://tv1.771993.xyz:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=
 http://tv1.771993.xyz:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视高清
 http://tv1.771993.xyz:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="大连新闻综合" tvg-name="大连新闻综合" tvg-logo="https://epg.112114.xyz/logo/大连新闻综合.png" group-title="辽宁",大连新闻综合
+http://xyt.186738613.xyz/lngd.php?id=273&Cf.m3u8
 #EXTINF:-1,tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://epg.112114.xyz/logo/辽宁北方.png" group-title="辽宁",辽宁北方
 http://tv1.771993.xyz:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png" group-title="辽宁",辽宁都市
@@ -143,33 +145,3 @@ http://tv1.771993.xyz:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=
 http://tv1.771993.xyz:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
 http://tv1.771993.xyz:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="NewTV",NewTV超级体育
-http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV古装剧场
-http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV海外剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV欢乐剧场
-http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
-#EXTINF:-1 group-title="NewTV",NewTV欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV家庭剧场
-http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV金牌综艺
-http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV惊悚悬疑
-http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV精品大剧
-http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV精品纪录
-http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV精品体育
-http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV军旅剧场
-http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV军事评论
-http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u
