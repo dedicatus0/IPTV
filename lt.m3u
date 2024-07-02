@@ -297,3 +297,77 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1,tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://epg.112114.xyz/logo/欢乐剧场.png" group-title="其他",欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1,tvg-id="神乐影院-1台" tvg-name="神乐影院-1台" tvg-logo="https://epg.112114.xyz/logo/神乐影院1台.png" group-title="其他",神乐影院-1台
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+#EXTINF:-1,tvg-id="神乐影院-2台" tvg-name="神乐影院-2台" tvg-logo="https://epg.112114.xyz/logo/神乐影院2台.png" group-title="其他",神乐影院-2台
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+#EXTINF:-1,tvg-id="大吉大利影院" tvg-name="大吉大利影院" tvg-logo="https://epg.112114.xyz/logo/大吉大利影院.png" group-title="其他",大吉大利影院
+https://pull.kktv8.com/livekktv/128600025.flv
+#EXTINF:-1,tvg-id="吃米滴虫" tvg-name="吃米滴虫" tvg-logo="https://epg.112114.xyz/logo/吃米滴虫.png" group-title="其他",吃米滴虫
+http://159.75.85.63:35455/douyu/315457
+#EXTINF:-1,tvg-id="冰冰经典" tvg-name="冰冰经典" tvg-logo="https://epg.112114.xyz/logo/冰冰经典.png" group-title="其他",冰冰经典
+http://159.75.85.63:35455/douyu/74374
+#EXTINF:-1,tvg-id="星爷影院" tvg-name="星爷影院" tvg-logo="https://epg.112114.xyz/logo/星爷影院.png" group-title="其他",星爷影院
+http://159.75.85.63:35455/douyu/508118
+#EXTINF:-1,tvg-id="凌儿影院" tvg-name="凌儿影院" tvg-logo="https://epg.112114.xyz/logo/凌儿影院.png" group-title="其他",凌儿影院
+http://159.75.85.63:35455/douyu/1377142
+#EXTINF:-1,tvg-id="小宇60帧" tvg-name="小宇60帧" tvg-logo="https://epg.112114.xyz/logo/小宇60帧.png" group-title="其他",小宇60帧
+http://159.75.85.63:35455/douyu/323876
+#EXTINF:-1,tvg-id="恐怖惊悚" tvg-name="恐怖惊悚" tvg-logo="https://epg.112114.xyz/logo/恐怖惊悚.png" group-title="其他",恐怖惊悚
+http://159.75.85.63:35455/douyu/96577
+#EXTINF:-1,tvg-id="電影劇場" tvg-name="電影劇場" tvg-logo="https://epg.112114.xyz/logo/電影劇場.png" group-title="其他",電影劇場
+http://159.75.85.63:35455/douyu/7575350
+#EXTINF:-1,tvg-id="豆瓣高分" tvg-name="豆瓣高分" tvg-logo="https://epg.112114.xyz/logo/豆瓣高分.png" group-title="其他",豆瓣高分
+http://159.75.85.63:35455/douyu/8770422
+#EXTINF:-1,tvg-id="花卷陪看" tvg-name="花卷陪看" tvg-logo="https://epg.112114.xyz/logo/花卷陪看.png" group-title="其他",花卷陪看
+http://159.75.85.63:35455/douyu/52787
+#EXTINF:-1,tvg-id="漫威剧情" tvg-name="漫威剧情" tvg-logo="https://epg.112114.xyz/logo/漫威剧情.png" group-title="其他",漫威剧情
+http://159.75.85.63:35455/douyu/6140589
+#EXTINF:-1,tvg-id="霍格沃茨" tvg-name="霍格沃茨" tvg-logo="https://epg.112114.xyz/logo/霍格沃茨.png" group-title="其他",霍格沃茨
+http://159.75.85.63:35455/douyu/8814650
+#EXTINF:-1,tvg-id="鱼宝恐怖" tvg-name="鱼宝恐怖" tvg-logo="https://epg.112114.xyz/logo/鱼宝恐怖.png" group-title="其他",鱼宝恐怖
+http://159.75.85.63:35455/douyu/1165374
+#EXTINF:-1,tvg-id="吃奶滴虫" tvg-name="吃奶滴虫" tvg-logo="https://epg.112114.xyz/logo/吃奶滴虫.png" group-title="其他",吃奶滴虫
+http://159.75.85.63:35455/douyu/263824
+#EXTINF:-1,tvg-id="变种人片" tvg-name="变种人片" tvg-logo="https://epg.112114.xyz/logo/变种人片.png" group-title="其他",变种人片
+http://159.75.85.63:35455/douyu/9651304
+#EXTINF:-1,tvg-id="喜剧电影" tvg-name="喜剧电影" tvg-logo="https://epg.112114.xyz/logo/喜剧电影.png" group-title="其他",喜剧电影
+http://159.75.85.63:35455/douyu/9292492
+#EXTINF:-1,tvg-id="女神电影" tvg-name="女神电影" tvg-logo="https://epg.112114.xyz/logo/女神电影.png" group-title="其他",女神电影
+http://159.75.85.63:35455/douyu/747764
+#EXTINF:-1,tvg-id="欧美大片" tvg-name="欧美大片" tvg-logo="https://epg.112114.xyz/logo/欧美大片.png" group-title="其他",欧美大片
+http://159.75.85.63:35455/douyu/2793084
+#EXTINF:-1,tvg-id="贝爷max" tvg-name="贝爷max" tvg-logo="https://epg.112114.xyz/logo/贝爷MAX.png" group-title="其他",贝爷max
+http://159.75.85.63:35455/douyu/4332
+#EXTINF:-1,tvg-id="贝爷影厅" tvg-name="贝爷影厅" tvg-logo="https://epg.112114.xyz/logo/贝爷影厅.png" group-title="其他",贝爷影厅
+http://159.75.85.63:35455/douyu/252802
+#EXTINF:-1,tvg-id="凌儿影院" tvg-name="凌儿影院" tvg-logo="https://epg.112114.xyz/logo/凌儿影院.png" group-title="其他",凌儿影院
+http://maomao.kandiantv.cn/douyu1.php?id=1377142
+#EXTINF:-1,tvg-id="小宇60帧" tvg-name="小宇60帧" tvg-logo="https://epg.112114.xyz/logo/小宇60帧.png" group-title="其他",小宇60帧
+http://maomao.kandiantv.cn/douyu1.php?id=323876
+#EXTINF:-1,tvg-id="恐怖惊悚" tvg-name="恐怖惊悚" tvg-logo="https://epg.112114.xyz/logo/恐怖惊悚.png" group-title="其他",恐怖惊悚
+http://maomao.kandiantv.cn/douyu1.php?id=96577
+#EXTINF:-1,tvg-id="電影劇場" tvg-name="電影劇場" tvg-logo="https://epg.112114.xyz/logo/電影劇場.png" group-title="其他",電影劇場
+http://maomao.kandiantv.cn/douyu1.php?id=7575350
+#EXTINF:-1,tvg-id="豆瓣高分" tvg-name="豆瓣高分" tvg-logo="https://epg.112114.xyz/logo/豆瓣高分.png" group-title="其他",豆瓣高分
+http://maomao.kandiantv.cn/douyu1.php?id=8770422
+#EXTINF:-1,tvg-id="花卷陪看" tvg-name="花卷陪看" tvg-logo="https://epg.112114.xyz/logo/花卷陪看.png" group-title="其他",花卷陪看
+http://maomao.kandiantv.cn/douyu1.php?id=52787
+#EXTINF:-1,tvg-id="漫威剧情" tvg-name="漫威剧情" tvg-logo="https://epg.112114.xyz/logo/漫威剧情.png" group-title="其他",漫威剧情
+http://maomao.kandiantv.cn/douyu1.php?id=6140589
+#EXTINF:-1,tvg-id="霍格沃茨" tvg-name="霍格沃茨" tvg-logo="https://epg.112114.xyz/logo/霍格沃茨.png" group-title="其他",霍格沃茨
+http://maomao.kandiantv.cn/douyu1.php?id=8814650
+#EXTINF:-1,tvg-id="鱼宝恐怖" tvg-name="鱼宝恐怖" tvg-logo="https://epg.112114.xyz/logo/鱼宝恐怖.png" group-title="其他",鱼宝恐怖
+http://maomao.kandiantv.cn/douyu1.php?id=1165374
+#EXTINF:-1,tvg-id="吃奶滴虫" tvg-name="吃奶滴虫" tvg-logo="https://epg.112114.xyz/logo/吃奶滴虫.png" group-title="其他",吃奶滴虫
+http://maomao.kandiantv.cn/douyu1.php?id=263824
+#EXTINF:-1,tvg-id="变种人片" tvg-name="变种人片" tvg-logo="https://epg.112114.xyz/logo/变种人片.png" group-title="其他",变种人片
+http://maomao.kandiantv.cn/douyu1.php?id=9651304
+#EXTINF:-1,tvg-id="喜剧电影" tvg-name="喜剧电影" tvg-logo="https://epg.112114.xyz/logo/喜剧电影.png" group-title="其他",喜剧电影
+http://maomao.kandiantv.cn/douyu1.php?id=9292492
+#EXTINF:-1,tvg-id="女神电影" tvg-name="女神电影" tvg-logo="https://epg.112114.xyz/logo/女神电影.png" group-title="其他",女神电影
+http://maomao.kandiantv.cn/douyu1.php?id=747764
+#EXTINF:-1,tvg-id="欧美大片" tvg-name="欧美大片" tvg-logo="https://epg.112114.xyz/logo/欧美大片.png" group-title="其他",欧美大片
+http://maomao.kandiantv.cn/douyu1.php?id=2793084
+#EXTINF:-1,tvg-id="贝爷影厅" tvg-name="贝爷影厅" tvg-logo="https://epg.112114.xyz/logo/贝爷影厅.png" group-title="其他",贝爷影厅
+http://maomao.kandiantv.cn/douyu1.php?id=252802
