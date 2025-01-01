@@ -8,7 +8,7 @@ lines = response.text.splitlines()
 # 提取9901端口的地址和对应的#EXTINF行
 filtered_lines = []
 for i in range(len(lines)):
-    if 'ottrrs.hl.chinamobile.com' in lines[i]:
+    if 'http://ottrrs.hl.chinamobile.com/' in lines[i]:
         filtered_lines.append(lines[i-1])
         filtered_lines.append(lines[i])
 
