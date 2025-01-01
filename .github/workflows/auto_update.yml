@@ -1,6 +1,10 @@
 name: Auto Update live.m3u
 
 on:
+  push:
+    branches:
+      - main
+      - test-trigger
   schedule:
     - cron: '*/1 * * * *'  # 每分钟一次
 
