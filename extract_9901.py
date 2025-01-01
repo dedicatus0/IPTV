@@ -9,7 +9,7 @@ lines = response.text.splitlines()
 filtered_lines = []
 seen_addresses = set()
 for i in range(len(lines)):
-    if '120.76.248.139' in lines[i]:
+    if '120.76.' in lines[i]:
         address = lines[i]
         if address not in seen_addresses:
             seen_addresses.add(address)
