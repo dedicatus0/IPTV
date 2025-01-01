@@ -10,7 +10,7 @@ on:
 
 jobs:
   update-file:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
@@ -32,10 +32,14 @@ jobs:
 
     - name: Commit changes
       env:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
       run: |
+        mkdir -p ~/.ssh
+        echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
         git add live.m3u
         git commit -m 'Update live.m3u with new 9901 port addresses'
-        git push https://$ACTIONS_DEPLOY_KEY@github.com/${{ github.repository }}.git HEAD:main
+        git push git@github.com:${{ github.repository }}.git HEAD:main
