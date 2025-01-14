@@ -1,0 +1,101 @@
+{
+  "version": "ㅤ",
+  "syncAt": 0000000000000,
+  "syncFrom": "ㅤ",
+  "description": null,
+  "configs": {
+    "appBootLaunch": true,
+    "appPipEnable": true,
+    "appLastLatestVersion": "",
+    "appAgreementAgreed": true,
+    "appStartupScreen": "Live",
+    "debugDeveloperMode": false,
+    "debugShowFps": false,
+    "debugShowVideoPlayerMetadata": false,
+    "debugShowLayoutGrids": false,
+    "iptvSourceCacheTime": 0,
+    "iptvSourceCurrent": {
+      "name": "ㅤ",
+      "url": "/data/user/0/top.yogiczy.slcs.tv/files/iptv_source_local_1736075965419.txt",
+      "isLocal": true,
+      "transformJs": null
+    },
+    "iptvSourceList": {
+      "value": [
+        {
+          "name": "ㅤ",
+          "url": "/data/user/0/top.yogiczy.slcs.tv/files/iptv_source_local_1736075965419.txt",
+          "isLocal": true,
+          "transformJs": null
+        }
+      ]
+    },
+    "iptvChannelGroupHiddenList": [],
+    "iptvHybridMode": "DISABLE",
+    "iptvSimilarChannelMerge": false,
+    "iptvChannelLogoProvider": "https://live.fanmingming.com/tv/{name|uppercase}.png",
+    "iptvChannelLogoOverride": false,
+    "iptvChannelFavoriteEnable": true,
+    "iptvChannelFavoriteListVisible": false,
+    "iptvChannelFavoriteList": {
+      "value": []
+    },
+    "iptvChannelLastPlay": null,
+    "iptvChannelLinePlayableHostList": null,
+    "iptvChannelLinePlayableUrlList": null,
+    "iptvChannelChangeFlip": true,
+    "iptvChannelNoSelectEnable": false,
+    "iptvChannelChangeListLoop": true,
+    "epgEnable": false,
+    "epgSourceCurrent": {
+      "name": "默认节目单 fanmingming",
+      "url": "https://live.fanmingming.com/e.xml"
+    },
+    "epgSourceList": {
+      "value": []
+    },
+    "epgRefreshTimeThreshold": 0,
+    "epgSourceFollowIptv": true,
+    "epgChannelReserveList": {
+      "value": []
+    },
+    "uiShowEpgProgrammeProgress": true,
+    "uiShowEpgProgrammePermanentProgress": true,
+    "uiShowChannelLogo": true,
+    "uiShowChannelPreview": true,
+    "uiUseClassicPanelScreen": true,
+    "uiDensityScaleRatio": 0,
+    "uiFontScaleRatio": 1,
+    "uiTimeShowMode": "HIDDEN",
+    "uiFocusOptimize": true,
+    "uiScreenAutoCloseDelay": 5000,
+    "updateForceRemind": false,
+    "updateChannel": "stable",
+    "videoPlayerCore": "MEDIA3",
+    "videoPlayerRenderMode": "SURFACE_VIEW",
+    "videoPlayerUserAgent": "okhttp",
+    "videoPlayerHeaders": "",
+    "videoPlayerLoadTimeout": 3000,
+    "videoPlayerDisplayMode": "ORIGINAL",
+    "videoPlayerForceAudioSoftDecode": true,
+    "videoPlayerStopPreviousMediaItem": true,
+    "videoPlayerSkipMultipleFramesOnSameVSync": true,
+    "themeAppCurrent": null,
+    "cloudSyncAutoPull": null,
+    "cloudSyncProvider": null,
+    "cloudSyncGithubGistId": null,
+    "cloudSyncGithubGistToken": null,
+    "cloudSyncGiteeGistId": null,
+    "cloudSyncGiteeGistToken": null,
+    "cloudSyncNetworkUrl": null,
+    "cloudSyncLocalFilePath": null,
+    "cloudSyncWebDavUrl": null,
+    "cloudSyncWebDavUsername": null,
+    "cloudSyncWebDavPassword": null,
+    "feiyangAllInOneFilePath": ""
+  },
+  "extraLocalIptvSourceList": {
+    "/data/user/0/top.yogiczy.slcs.tv/files/iptv_source_local_1736075965419.txt": "#EXTM3U\n#EXTINF:-1 group-title=\"ㅤ\",ㅤ\nhttps://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8\n#EXTINF:-1 group-title=\"ㅤ\",ㅤㅤ\nhttps://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8\n#EXTINF:-1 group-title=\"ㅤ\",ㅤㅤㅤ\nhttp://adhbdnhfncbdkila01.zhenyidaoxinxi.top/live/cx_375008.flv\nhttp://adhbdnhfncbdkila01.zhenyidaoxinxi.top/live/cx_373479.flv\nhttp://l1azeintzme.gdsghsdfhg.xyz/live/cx_375616.flv"
+  },
+  "extraChannelNameAlias": ""
+}
