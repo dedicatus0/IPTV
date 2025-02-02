@@ -1,16 +1,7 @@
 {
   "sites": [
     {
-      "key": "tktube",
-      "name": "tktube",
-      "type": 0,
-      "api": "https://tktube.com",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "07b96ce7-0791-5f19-9321-ba6085145eef",
+      "key": "91麻豆",
       "name": "91麻豆",
       "type": 0,
       "api": "https://91md.me/api.php/provide/vod/at/xml/",
