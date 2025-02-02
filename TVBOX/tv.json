@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "葡萄资源",
-      "name": "葡萄资源",
+      "key": "tktube",
+      "name": "tktube",
       "type": 0,
-      "api": "https://caiji.putaozy.net/inc/api.php",
+      "api": "https://tktube.com",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
