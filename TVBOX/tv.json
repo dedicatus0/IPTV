@@ -199,15 +199,6 @@
       "filterable": 1
     },
     {
-      "key": "橘猫资源",
-      "name": "橘猫资源",
-      "type": 1,
-      "api": "https://to.to-long.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "草榴资源",
       "name": "草榴资源",
       "type": 1,
