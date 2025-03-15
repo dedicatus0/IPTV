@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "91麻豆",
-      "name": "91麻豆",
-      "type": 0,
-      "api": "https://91md.me/api.php/provide/vod/at/xml/",
-      "searchable": 2,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "色猫资源",
       "name": "色猫资源",
       "type": 0,
