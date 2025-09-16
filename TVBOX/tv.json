@@ -83,6 +83,15 @@
       "filterable": 1
     },
     {
+      "key": "b8b48f6e-9e96-5619-96ba-d884ef9cb442",
+      "name": "奥斯卡",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "f951be46-17fa-5f4f-9f41-ff25d21e8d74",
       "name": "美少女",
       "type": 0,
@@ -163,6 +172,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "草榴资源",
+      "name": "草榴资源",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
   ],
   "lives": [
     {
