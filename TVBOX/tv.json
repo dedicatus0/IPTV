@@ -37,15 +37,6 @@
       "filterable": 1
     },
     {
-      "key": "656b916e-94fe-5b57-b300-80ccc1be1cea",
-      "name": "辣椒",
-      "type": 1,
-      "api": "https://apilj.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "70f4c18c-3276-50f1-adaa-85614f5441eb",
       "name": "森林",
       "type": 1,
@@ -77,15 +68,6 @@
       "name": "黄瓜",
       "type": 1,
       "api": "https://www.avre00.com/api.php/Prodao/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "b8b48f6e-9e96-5619-96ba-d884ef9cb442",
-      "name": "奥斯卡",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -171,15 +153,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "草榴资源",
-      "name": "草榴资源",
-      "type": 1,
-      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    }
   ],
   "lives": [
     {
